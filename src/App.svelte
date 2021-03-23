@@ -9,7 +9,7 @@
 
 <style>
   h1 {
-    @apply text-svelte-500 p-2 bg-green-200;
+    @apply text-svelte-500 p-2 bg-green-200 hover:bg-red-200;
   }
 
   /* works */
