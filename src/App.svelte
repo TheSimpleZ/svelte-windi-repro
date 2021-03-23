@@ -1,6 +1,6 @@
 <script>
-  import Foo from './Foo.svelte'
-  const world = 'world' // edit world and save to see hmr update
+  import Foo from './Foo.svelte';
+  const world = 'world'; // edit world and save to see hmr update
 </script>
 
 <h1 class="m-2">Hello {world}</h1>
